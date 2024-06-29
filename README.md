@@ -23,8 +23,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ItzDc02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+### Reality 🙏
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29hZXUyZDJsajZvdmo5cXZmbnhlOXZ0dTRjYXkwZHk0Y3cyc25lMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PQQN4tMoVa3pfRdi84/giphy-downsized-large.gif' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ItzDc02&icon=0&color=9)](https://visitcount.itsvg.in)
