@@ -1,7 +1,7 @@
 ## 👋 Hey there! This is where I break code, fix it, and pretend I knew what I was doing all along. Dive into my repos to see a mix of planned brilliance and happy accidents. P.S. Star my repos if you love what you see or just want good karma! 😎
 
 # 💫 About Me:
-🔭 I’m currently working on NerdNest.<br>👯 I’m looking to collaborate on: Projects involving modern JavaScript frameworks and libraries, particularly React and TypeScript.<br>🤝 I’m looking for help with: Advanced techniques in React and Redux for state management.<br>🌱 I’m currently learning: Performance optimization in React applications and advanced CSS techniques.<br>💬 Ask me about: Anything related to JavaScript, React, or web development best practices.<br>⚡ Fun fact: I got lazy and decided to make a Selenium based Python Bot that uses Excel sheets containing LinkedIn Career pages and Follows those pages.
+🔭 I’m currently working on Wishful.<br>👯 I’m looking to collaborate on: Projects involving modern JavaScript frameworks and libraries, particularly React and TypeScript.<br>🤝 I’m looking for help with: Advanced techniques in React and Redux for state management.<br>🌱 I’m currently learning: Performance optimization in React applications and advanced CSS techniques.<br>💬 Ask me about: Anything related to JavaScript, React, or web development best practices.<br>⚡ Fun fact: I got lazy and decided to make a Selenium based Python Bot that uses Excel sheets containing LinkedIn Career pages and Follows those pages.
 
 
 ## 🌐 Socials:
